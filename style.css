@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    font-family: Arial;
+    font-family: arial;
     border: border-box;
 }
 
@@ -92,6 +92,7 @@
     text-align: center;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
+    border: none;
 
 }
 
@@ -127,9 +128,8 @@
 
 /** box 6 **/
 
-.nav-cart{
-    font-size: 14px;
-    font-weight: 7000;
+.nav-cart i{
+    font-size: 1.3rem;
 }
 
 /** panel 2 **/
